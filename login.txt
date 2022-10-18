@@ -1,0 +1,4 @@
+databaseName
+username
+userpassword
+hostIP
